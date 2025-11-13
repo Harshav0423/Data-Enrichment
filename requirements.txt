@@ -1,0 +1,9 @@
+Django~=5.0
+django-rest-framework
+django-ninja>=1.2
+psycopg2-binary
+python-dotenv
+celery
+redis
+requests
+flower
